@@ -1,3 +1,12 @@
+#CUSTOM
+*.h5ad
+data/
+cache/
+results/
+env/
+figures/
+DE/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
