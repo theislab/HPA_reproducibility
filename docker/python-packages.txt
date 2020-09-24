@@ -16,3 +16,4 @@ h5py==2.9.0
 ipywidgets
 jupyter_contrib_nbextensions
 gprofiler-official
+xlsxwriter
