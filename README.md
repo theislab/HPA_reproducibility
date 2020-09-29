@@ -22,6 +22,7 @@
 
 
 ## Structure
+```
 HPA_reproducibility
 |-- README.md
 |-- code
@@ -50,6 +51,7 @@ HPA_reproducibility
     |   \`-- supplementary.ipynb
     \`-- rep_tables
         \`-- tables.ipynb
+```
 
 ## Installation
 
