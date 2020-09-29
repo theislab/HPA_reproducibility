@@ -4,7 +4,7 @@
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![]()]()
+[![](/readme.png)]()
 
 ## Structure
 ```
