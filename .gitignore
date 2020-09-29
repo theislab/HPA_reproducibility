@@ -1,5 +1,7 @@
 #CUSTOM
 *.h5ad
+.DS_Store
+*.DS_Store
 data/
 cache/
 results/
