@@ -23,7 +23,7 @@ HPA_reproducibility
     |   |-- 01-preprocessing.ipynb
     |   |-- 02-visualization.ipynb
     |   |-- 03-DE.ipynb
-    |   \`-- 04-ambient.ipynb
+    |   \-- 04-ambient.ipynb
     |-- pvn
     |   |-- 01-preprocessing.ipynb
     |   |-- 02-visualization.ipynb
