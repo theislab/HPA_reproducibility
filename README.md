@@ -2,8 +2,6 @@
 
 > scRNA-seq analyses
 
-***INSERT ANOTHER GRAPHIC HERE***
-
 [![](/readme.png)]()
 
 ## Structure
