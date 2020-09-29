@@ -25,31 +25,31 @@
 HPA_reproducibility
 |-- README.md
 |-- code
-|   `-- mast_scripts.py
+|   \`-- mast_scripts.py
 |-- docker
 |   |-- Dockerfile
-|   `-- python-packages.txt
-`-- notebooks
+|   \`-- python-packages.txt
+\`-- notebooks
     |-- adrenal
     |   |-- 01-preprocessing.ipynb
     |   |-- 02-visualization.ipynb
     |   |-- 03-DE.ipynb
-    |   `-- 04-ambient.ipynb
+    |   \`-- 04-ambient.ipynb
     |-- pituitary
     |   |-- 01-preprocessing.ipynb
     |   |-- 02-visualization.ipynb
     |   |-- 03-DE.ipynb
-    |   `-- 04-ambient.ipynb
+    |   \`-- 04-ambient.ipynb
     |-- pvn
     |   |-- 01-preprocessing.ipynb
     |   |-- 02-visualization.ipynb
     |   |-- 03-DE.ipynb
-    |   `-- 04-ambient.ipynb
+    |   \`-- 04-ambient.ipynb
     |-- rep_plots
     |   |-- main.ipynb
-    |   `-- supplementary.ipynb
-    `-- rep_tables
-        `-- tables.ipynb
+    |   \`-- supplementary.ipynb
+    \`-- rep_tables
+        \`-- tables.ipynb
 
 ## Installation
 
