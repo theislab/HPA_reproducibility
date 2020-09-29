@@ -4,38 +4,23 @@
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
+[![]()]()
 
 ## Structure
 ```
 HPA_reproducibility
 |-- README.md
 |-- code
-|   \`-- mast_scripts.py
+|   \-- mast_scripts.py
 |-- docker
 |   |-- Dockerfile
-|   \`-- python-packages.txt
-\`-- notebooks
+|   \-- python-packages.txt
+\-- notebooks
     |-- adrenal
     |   |-- 01-preprocessing.ipynb
     |   |-- 02-visualization.ipynb
     |   |-- 03-DE.ipynb
-    |   \`-- 04-ambient.ipynb
+    |   \-- 04-ambient.ipynb
     |-- pituitary
     |   |-- 01-preprocessing.ipynb
     |   |-- 02-visualization.ipynb
@@ -48,9 +33,9 @@ HPA_reproducibility
     |   \`-- 04-ambient.ipynb
     |-- rep_plots
     |   |-- main.ipynb
-    |   \`-- supplementary.ipynb
-    \`-- rep_tables
-        \`-- tables.ipynb
+    |   \-- supplementary.ipynb
+    \-- rep_tables
+        \-- tables.ipynb
 ```
 
 ## Installation
